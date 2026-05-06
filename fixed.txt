@@ -1,0 +1,18 @@
+START
+
+INPUT Student Names
+INPUT IF score
+
+IF score >= 50 Then
+OUTPUT " Student Names + StudentName"
+OUTPUT "results:Pass"
+
+ELSE
+
+IF score < 50 Then
+OUTPUT " Student Names + StudentName"
+OUTPUT "results:Fail"
+
+OUTPUT "Goodbye"
+
+END
